@@ -4,4 +4,9 @@ kill = 20
 print('Your killcount is',kill) 
 
 name = input( 'Enter name: ') 
-print("Hey",name'It has been a long time since you last visited.')
+print('Hey',name,'It has been a long time since you last visited.')
+
+
+#activity 3
+import keyword
+print( keyword.kwlist)
